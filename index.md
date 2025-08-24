@@ -26,16 +26,8 @@ This tutorial introduces fundamental Python programming skills through hands-on 
 ### References
 
 While building this tutorial, I have referred to the following sources:
-- Bird, S., Klein, E., & Loper, E. (2009). Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit: https://tjzhifei.github.io/resources/NLTK.pdf 
-- Kyle, K. (2020). Introduction to Corpus Analysis With Python 3: https://kristopherkyle.github.io/corpus-analysis-python/ 
+- Bird, S., Klein, E., & Loper, E. (2009). [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://tjzhifei.github.io/resources/NLTK.pdf). 
+- Kyle, K. (2020). [Introduction to Corpus Analysis With Python 3](https://kristopherkyle.github.io/corpus-analysis-python/) 
 - OpenAI ChatGPT-4o, used to generate some exercises 
-- Stanford CS224N: https://web.stanford.edu/class/cs224n/ 
+- Stanford [CS224N](https://web.stanford.edu/class/cs224n/) 
 
----
-
-> **Author**  
-> Hakyung Sung (hksgla@rit.edu)   
-> Department of Psychology, College of Liberal Arts  
-> Rochester Institute of Technology  
-
----
