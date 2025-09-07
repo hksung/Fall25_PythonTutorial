@@ -121,7 +121,7 @@ B. `(6,)`
 C. `(2, 3)`  
 D. `(1, 6)`
 
-#### 3. Which of the following returns the mean of a NumPy array `x`?**
+#### 3. Which of the following returns the mean of a NumPy array `x`?
 
 A. `mean(x)`  
 B. `x.mean()`  
@@ -129,7 +129,7 @@ C. `np.avg(x)`
 D. `x.mean(axis=None)`
 
 
-#### 4. What is the result of `np.array([1, 2, 3]) * 2`?**
+#### 4. What is the result of `np.array([1, 2, 3]) * 2`?
 
 A. `[2, 4, 6]`  
 B. `[1, 2, 3, 1, 2, 3]`  
@@ -137,7 +137,7 @@ C. `[[1, 2, 3], [1, 2, 3]]`
 D. Error
 
 
-#### 5. Which of the following creates a 3x1 column vector?**
+#### 5. Which of the following creates a 3x1 column vector?
 
 A. `np.array([[1], [2], [3]])`  
 B. `np.array([1, 2, 3])`  
@@ -145,14 +145,14 @@ C. `np.ones((3,))`
 D. `np.zeros((1, 3))`
 
 
-#### 6. What does `np.dot(a, b)` compute when `a` and `b` are 1D vectors?**
+#### 6. What does `np.dot(a, b)` compute when `a` and `b` are 1D vectors?
 
 A. Element-wise product  
 B. Outer product  
 C. Dot (inner) product  
 D. Matrix multiplication
 
-#### 7. What is the shape of the result of `np.random.random((2, 3, 4))`?**
+#### 7. What is the shape of the result of `np.random.random((2, 3, 4))`?
 
 A. `(3, 4)`  
 B. `(2, 3, 4)`  
