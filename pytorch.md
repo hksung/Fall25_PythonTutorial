@@ -7,9 +7,10 @@ title: PyTorch
 
 * PyTorch is an open-source machine learning library, widely used for deep learning research and production. It offers dynamic computation graphs, strong GPU acceleration, and integration with Python, making it a popular framework for building and training neural networks.
 
-* [Documentation](https://pytorch.org/)
-
 * [Installation](https://pytorch.org/get-started/locally/)
+* [Official documentation](https://pytorch.org/)
+* [YouTube tutorials](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)
+
 
 ### Tensors
 
@@ -30,7 +31,7 @@ Since each word (token) carries meaning, we represent each of them using a vecto
 
 To enable batch processing of multiple sentence matrices, we group them together into a 3D tensor.
 
-![Tensor Example](./figures/nlpData.jpg)
+![Tensor Example](./figures/nlpData.jpg){: width="350" }
 
 Each sentence in the dataset can be represented as a tensor of shape *(N, ℓ, d)*, where:
 
@@ -40,11 +41,10 @@ Each sentence in the dataset can be represented as a tensor of shape *(N, ℓ, d
 
 This representation results in a 3-dimensional tensor. One key challenge in NLP is that sentence lengths can vary significantly across a corpus. As a result, the value of ℓ can differ depending on how we batch or group sentences. This variability makes it difficult to process the data using standard neural network layers (e.g., linear layers) that expect fixed-size inputs.
 
-To address this, NLP models often rely on architectures that can handle variable-length sequences, such as **Recurrent Neural Networks (RNNs)** or **Transformers**, which are designed to model dependencies across tokens regardless of sentence length.
+To address this, NLP models often rely on architectures that can handle variable-length sequences, such as Recurrent Neural Networks (RNNs) or Transformers, which are designed to model dependencies across tokens regardless of sentence length.
+
 
 
 --- 
 ### References
-
-
 - Figure reference: [NLP with Deep Learning Blog – Tensor](https://kh-kim.github.io/nlp_with_deep_learning_blog/docs/1-03-pytorch_tutorials/03-tensor/)
