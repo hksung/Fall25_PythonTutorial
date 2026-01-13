@@ -4,7 +4,7 @@ layout: default
 
 ### Python Tutorial
 
-This tutorial introduces fundamental Python programming skills through hands-on work with text data. It starts with the basics of Python, then moves on to processing and analyzing linguistic corpora, and concludes with an introduction to key packages used in natural language processing. The materials are designed for LING 351 (*Language Technology and LLMs*) and LING 581 (*Natural Language Processing I*) at RIT, Fall 2025.
+This start-up tutorial introduces fundamental Python programming skills through hands-on work with text data. It starts with the basics of Python, then moves on to processing and analyzing linguistic corpora, and concludes with an introduction to key packages used in natural language processing.
 
 #### Basics
 - [Getting started](1.md)
